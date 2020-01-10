@@ -119,6 +119,9 @@
    
   </div>
 </div>
+
+<!-- Footer section  -->
+<?php require_once("inc/footer.php") ?>
     
 </body>
 </html>

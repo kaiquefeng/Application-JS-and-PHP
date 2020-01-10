@@ -13,14 +13,17 @@
               <a class="nav-link" href="index.php">E-mails</a>
             </li>
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle disabled" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <a class="nav-link dropdown-toggle " href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Briefings
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="#">Criação de sites</a>
-                <a class="dropdown-item" href="#">Another action</a>
+                <a class="dropdown-item" href="#">Direção de Arte</a>
+                <a class="dropdown-item" href="#">Programação</a>
+                <a class="dropdown-item" href="#">Mídia</a>
+                <a class="dropdown-item" href="#">SDR</a>
+                <a class="dropdown-item" href="#">Redator</a>
                 <div class="dropdown-divider"></div>
-                <a class="dropdown-item" href="#">Something else here</a>
+                <a class="dropdown-item disabled" href="#">Mais serviços</a>
               </div>
             </li>
             
